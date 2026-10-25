@@ -95,16 +95,6 @@ Offline retrieval-augmented few-shot prompting with Qwen2.5-14B-Instruct and voc
 </tr>
 </table>
 
-## Research & builder map
-
-```mermaid
-flowchart LR
-    A[Agentic AI] --> G[GANGU]
-    R[RAG & Ontology Learning] --> L[LLMs4OL 2026]
-    M[Multi-Agent RL] --> S[Swarm Navigation]
-    B[Dependable AI Backends] --> C[ChainGuard]
-```
-
 ## Technical toolkit
 
 <div align="center">
