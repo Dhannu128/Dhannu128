@@ -3,11 +3,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:14B8A6&text=Dhannu%20Ram%20Meena&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Multi-Agent%20RL&descSize=18&descAlignY=58)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Dhannu128&label=Profile%20views&color=2563EB&style=for-the-badge)](https://github.com/Dhannu128)
+[![AIMS Lab](https://img.shields.io/badge/AIMS_Lab-IIIT_Allahabad-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIMSLab-IIITAllahabad)
 [![LLMs4OL paper](https://img.shields.io/badge/Research-LLMs4OL%202026-14B8A6?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.27101)
 [![GANGU](https://img.shields.io/badge/Live-GANGU-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://gangu.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-iib2024033%40iiita.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iib2024033@iiita.ac.in)
 
-### I build intelligent systems that reason, collaborate, and work in the real world.
+[![Current focus](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=14B8A6&center=true&vCenter=true&width=850&lines=Building+agentic+AI+systems;Researching+multi-agent+reinforcement+learning;Designing+RAG+and+reliable+backend+platforms)](https://github.com/Dhannu128)
 
 AI/ML engineer and researcher at **IIIT Allahabad**, focused on **agentic AI**, **multi-agent reinforcement learning**, **RAG**, and reliable backend systems.
 
@@ -19,6 +20,27 @@ AI/ML engineer and researcher at **IIIT Allahabad**, focused on **agentic AI**, 
 - Co-author of **[pro-team at LLMs4OL 2026](https://arxiv.org/abs/2608.27101)**, an offline RAG and vocabulary-constrained ontology-learning system.
 - Building **[GANGU](https://github.com/Dhannu128/GANGU)**, a multilingual, voice-first grocery assistant orchestrated with LangGraph and MCP.
 - Interested in dependable AI systems: tool use, memory, retrieval, explainability, real-time data, and human confirmation boundaries.
+
+## Research affiliation
+
+<table>
+<tr>
+<td width="135" align="center" valign="middle">
+
+[<img src="https://avatars.githubusercontent.com/u/276490918?v=4" width="105" alt="AIMS Lab organization avatar" />](https://github.com/AIMSLab-IIITAllahabad)
+
+</td>
+<td valign="middle">
+
+### AIMS Lab · IIIT Allahabad
+
+I work on multi-agent reinforcement learning for scalable swarm formation and navigation at the **Artificial Intelligence & Multi-Agent Systems Lab**. The research explores decentralized coordination, local observations, and dependable collective behavior.
+
+**[GitHub organization](https://github.com/AIMSLab-IIITAllahabad)** · **[Official lab website](https://aims.iiita.ac.in/)**
+
+</td>
+</tr>
+</table>
 
 ## Featured work
 
@@ -37,13 +59,13 @@ Voice-first grocery assistance in Hindi, English, and Hinglish. Converts a reque
 </td>
 <td width="50%" valign="top">
 
-### [SwarmNav-MARL](https://github.com/AIMSLab-IIITAllahabad/SwarmNav-MARL)
+### SwarmNav-MARL
 
-Research code for decentralized swarm formation and navigation under local observations, with reproducible controller implementations and experiment artifacts.
+Active AIMS Lab research on decentralized swarm formation and navigation under local observations, with reproducible controller implementations and experiment artifacts.
 
 `Multi-Agent RL` `PyTorch` `CUDA` `Unity` `Python`
 
-**[Research repository](https://github.com/AIMSLab-IIITAllahabad/SwarmNav-MARL)**
+**[AIMS Lab organization](https://github.com/AIMSLab-IIITAllahabad)** · **[Lab website](https://aims.iiita.ac.in/)**
 
 </td>
 </tr>
@@ -73,6 +95,16 @@ Offline retrieval-augmented few-shot prompting with Qwen2.5-14B-Instruct and voc
 </tr>
 </table>
 
+## Research & builder map
+
+```mermaid
+flowchart LR
+    A[Agentic AI] --> G[GANGU]
+    R[RAG & Ontology Learning] --> L[LLMs4OL 2026]
+    M[Multi-Agent RL] --> S[Swarm Navigation]
+    B[Dependable AI Backends] --> C[ChainGuard]
+```
+
 ## Technical toolkit
 
 <div align="center">
@@ -96,7 +128,7 @@ Offline retrieval-augmented few-shot prompting with Qwen2.5-14B-Instruct and voc
 | Work | Focus |
 |---|---|
 | **[LLMs4OL 2026](https://arxiv.org/abs/2608.27101)** | Retrieval-augmented ontology learning with constrained post-processing |
-| **[SwarmNav-MARL](https://github.com/AIMSLab-IIITAllahabad/SwarmNav-MARL)** | Local-observation multi-agent reinforcement learning for swarm navigation |
+| **SwarmNav-MARL · [AIMS Lab](https://github.com/AIMSLab-IIITAllahabad)** | Local-observation multi-agent reinforcement learning for swarm navigation |
 
 ## GitHub activity
 
