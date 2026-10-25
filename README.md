@@ -127,7 +127,13 @@ Offline retrieval-augmented few-shot prompting with Qwen2.5-14B-Instruct and voc
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhannu128&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=2563EB&icon_color=14B8A6&text_color=8B949E" alt="Dhannu's GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhannu128&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=8B949E&langs_count=8" alt="Dhannu's most used languages" />
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Dhannu128&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
+<h3 align="center">Contribution skyline · 3D</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Dhannu Ram Meena's GitHub contributions as a 3D skyline" width="100%" />
+</picture>
 
 ![Contribution snake](https://raw.githubusercontent.com/Dhannu128/Dhannu128/gh-pages/github-contribution-grid-snake-dark.svg)
 
