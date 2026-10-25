@@ -107,7 +107,7 @@ Offline retrieval-augmented few-shot prompting with Qwen2.5-14B-Instruct and voc
 
 ![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Dhannu128&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
-![Contribution snake](https://raw.githubusercontent.com/Dhannu128/Dhannu128/output/github-contribution-grid-snake-dark.svg)
+![Contribution snake](https://raw.githubusercontent.com/Dhannu128/Dhannu128/gh-pages/github-contribution-grid-snake-dark.svg)
 
 </div>
 
